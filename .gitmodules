@@ -1,0 +1,12 @@
+[submodule "Libraries/SFML/Demo/Doodle-Jump-Beginner"]
+	path = Libraries/SFML/Demo/Doodle-Jump-Beginner
+	url = https://github.com/sahroush/doodle-jump.git
+[submodule "Libraries/SFML/Demo/Snake-Beginner"]
+	path = Libraries/SFML/Demo/Snake-Beginner
+	url = https://github.com/mohajel/snake-game.git
+[submodule "Libraries/SFML/Demo/Dangool-Intermediate"]
+	path = Libraries/SFML/Demo/Dangool-Intermediate
+	url = https://github.com/sahroush/Dangool-the-game.git
+[submodule "Libraries/SFML/Demo/Turtix-Intermediate"]
+	path = Libraries/SFML/Demo/Turtix-Intermediate
+	url = https://github.com/KouroshAlinaghi/brand-new-turtix.git
