@@ -10,3 +10,15 @@
 [submodule "Libraries/SFML/Demo/Turtix-Intermediate"]
 	path = Libraries/SFML/Demo/Turtix-Intermediate
 	url = https://github.com/KouroshAlinaghi/brand-new-turtix.git
+[submodule "Libraries/RSDL/Demo/Star-Wars-V1-Intermediate"]
+	path = Libraries/RSDL/Demo/Star-Wars-V1-Intermediate
+	url = https://github.com/Shahriar-0/Star-Wars.git
+[submodule "Libraries/RSDL/Demo/Star-Wars-V2-Intermediate"]
+	path = Libraries/RSDL/Demo/Star-Wars-V2-Intermediate
+	url = https://github.com/mmd-nemati/APCourse-A5-starwars.git
+[submodule "Libraries/RSDL/Demo/Doodle-Jump-V1-Intermediate"]
+	path = Libraries/RSDL/Demo/Doodle-Jump-V1-Intermediate
+	url = https://github.com/MisaghM/Doodle-Jump
+[submodule "Libraries/RSDL/Demo/Doodle-Jump-V2-Intermediate"]
+	path = Libraries/RSDL/Demo/Doodle-Jump-V2-Intermediate
+	url = https://github.com/PashaBarahimi/DoodleJump.git
