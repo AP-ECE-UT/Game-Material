@@ -1,9 +1,6 @@
 # Git and Github
 
-## Table of Contents
-
 - [Git and Github](#git-and-github)
-  - [Table of Contents](#table-of-contents)
   - [Objectives](#objectives)
   - [Introduction](#introduction)
   - [Git](#git)
@@ -72,5 +69,5 @@ GitHub is a platform that allows developers to host and review code, manage proj
 ### Github Links and Resources
 
 - [GitHub Documentation](https://docs.github.com/en/get-started)
-- [TA Git and Github Workshop](./GitGithub-UTAP-TA-Session.pdf)
+- [TA Git and Github Workshop](./Assets/GitGithub-UTAP-TA-Session.pdf)
 - [TA Git and Github Workshop - Video Archive](https://www.aparat.com/v/B16jR)

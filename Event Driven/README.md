@@ -1,9 +1,6 @@
 # Event Driven Programming
 
-## Table of Contents
-
 - [Event Driven Programming](#event-driven-programming)
-  - [Table of Contents](#table-of-contents)
   - [Objectives](#objectives)
   - [Introduction](#introduction)
   - [Links and Resources](#links-and-resources)
