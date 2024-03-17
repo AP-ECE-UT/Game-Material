@@ -130,19 +130,19 @@ CXXFLAGS = -std=c++11 -Wall
 all: music_player
 
 music_player: main.o audio_player.o playlist.o song.o
-    $(CXX) $(CXXFLAGS) -o music_player main.o audio_player.o playlist.o song.o
+    $(CXX) $(CXXFLAGS) main.o audio_player.o playlist.o song.o -o music_player
 
 main.o: main.cpp audio_player.h playlist.h song.h
-    $(CXX) $(CXXFLAGS) -c main.cpp
+    $(CXX) $(CXXFLAGS) -c main.cpp -o main.o
 
 playlist.o: playlist.cpp playlist.h song.h audio_player.h
-    $(CXX) $(CXXFLAGS) -c playlist.cpp
+    $(CXX) $(CXXFLAGS) -c playlist.cpp -o playlist.o
 
 audio_player.o: audio_player.cpp audio_player.h song.h
-    $(CXX) $(CXXFLAGS) -c audio_player.cpp
+    $(CXX) $(CXXFLAGS) -c audio_player.cpp -o audio_player.o
 
 song.o: song.cpp song.h
-    $(CXX) $(CXXFLAGS) -c song.cpp
+    $(CXX) $(CXXFLAGS) -c song.cpp -o song.o
 
 clean:
     rm -f music_player *.o
