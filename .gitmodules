@@ -22,3 +22,12 @@
 [submodule "Libraries/RSDL/Demo/Doodle-Jump-V2-Intermediate"]
 	path = Libraries/RSDL/Demo/Doodle-Jump-V2-Intermediate
 	url = https://github.com/PashaBarahimi/DoodleJump.git
+[submodule "Libraries/SFML/Demo/Death-Jump-Intermediate"]
+	path = Libraries/SFML/Demo/Death-Jump-Intermediate
+	url = https://github.com/xSnapi/deathjump.git
+[submodule "Libraries/SFML/Demo/Pathfinding-Intermediate"]
+	path = Libraries/SFML/Demo/Pathfinding-Intermediate
+	url = https://github.com/xSnapi/cpp_pathfinding_using_sfml.git
+[submodule "Libraries/SFML/Demo/Flappy-Bird-Beginner"]
+	path = Libraries/SFML/Demo/Flappy-Bird-Beginner
+	url = https://github.com/erfan-mirshams/flappy-bird.git
