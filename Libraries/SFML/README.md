@@ -79,10 +79,11 @@ int main()
 }
 ```
 
-In this example, we create a window using the `sf::RenderWindow` class, and draw a red circle using the `sf::CircleShape` class. We then enter a loop that polls for events and draws the circle on the window. When the window is closed, the program exits.
+In this example, we create a window using the `sf::RenderWindow` class and draw a red circle using the `sf::CircleShape` class. We then enter a loop that polls for events and draws the circle on the window. When the window is closed, the program exits.
 
 ## Links and Resources
 
-- [SFML Official Website](https://www.sfml-dev.org/tutorials/2.6/)
+- [SFML Official Tutorial](https://www.sfml-dev.org/tutorials/2.6/)
+- [SFML Official Documentaion](https://www.sfml-dev.org/documentation/2.6.1/)
 - [Demo Projects](./Demo/)
 - [TA SFML Workshop](https://www.aparat.com/v/HKoV9)
